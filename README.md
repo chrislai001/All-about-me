@@ -291,7 +291,7 @@ retain customer loyalty as it will be deemed as a reliable airline to fly with.
 
 <p><span style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
 
-<h2>References</h2>
+<h1>References</h1>
 
 <p><span style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
 
