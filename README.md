@@ -6,7 +6,7 @@
 <br>
 <body><p>Student name: Chris Lai</p>
 
-<p>Student number:3866221</p>
+<p>Student number: 3866221</p>
 
 <p>Email address: <a href="mailto:christopherhjlai@gmail.com">christopherhjlai@gmail.com</a></p></body>
 
