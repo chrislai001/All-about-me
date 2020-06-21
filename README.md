@@ -54,86 +54,17 @@ in this field will most certainly grow on me and benefits my career progress. <o
 
 <p><span style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
 
-<p><b style='mso-bidi-font-weight:normal'><span
-style='font-size:14.0pt;mso-bidi-font-size:12.0pt;background:yellow;mso-highlight:
-yellow;mso-ansi-language:EN-AU'>Ideal Job:</span></b><b style='mso-bidi-font-weight:
-normal'><span style='font-size:14.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:
-EN-AU'><o:p></o:p></span></b></p>
+<h1>Ideal Job:</h1>
 
-<p><span style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
+<p>The ideal job I think will suit me most is in sales. For example, the listing of Director of Sales for Robert Walters Australia. The link to this listing is <a href="https://www.seek.com.au/job/50098605?type=standard#searchRequestToken=d934f81a-f0f4-4585-b664-1c8a5d1424df">https://www.seek.com.au/job/50098605?type=standard#searchRequestToken=d934f81a-f0f4-4585-b664-1c8a5d1424df</a>.</p>
 
-<p><span style='mso-ansi-language:EN-AU'>The ideal job I think
-will suit me most is in sales. For example, the listing of Director of Sales
-for Robert Walters Australia. The link to this listing is <span
-class=MsoHyperlink><a
-href="https://www.seek.com.au/job/50098605?type=standard#searchRequestToken=d934f81a-f0f4-4585-b664-1c8a5d1424df">https://www.seek.com.au/job/50098605?type=standard#searchRequestToken=d934f81a-f0f4-4585-b664-1c8a5d1424df</a></span>.
-<o:p></o:p></span></p>
+<p><img border=0 width=280 height=410 src="Assignment1.fld/image001.png" v:shapes="Picture_x0020_1"></p>
 
-<p><span style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
+<p>I find this job to be very challenging as it requires the director to stay on top of current world affairs, market movements and governmental regulations. I admire those who can stay on top of the news and analyse underlying meanings of each news and movements at any given time. The reason why I am drawn to this job is precise because of love challenge and to be in an environment where you can explore more of the world you are not familiar with.</p>
 
-<p><span style='mso-ansi-language:EN-AU;mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype
- id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
- path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
- <v:stroke joinstyle="miter"/>
- <v:formulas>
-  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
-  <v:f eqn="sum @0 1 0"/>
-  <v:f eqn="sum 0 0 @1"/>
-  <v:f eqn="prod @2 1 2"/>
-  <v:f eqn="prod @3 21600 pixelWidth"/>
-  <v:f eqn="prod @3 21600 pixelHeight"/>
-  <v:f eqn="sum @0 0 1"/>
-  <v:f eqn="prod @6 1 2"/>
-  <v:f eqn="prod @7 21600 pixelWidth"/>
-  <v:f eqn="sum @8 21600 0"/>
-  <v:f eqn="prod @7 21600 pixelHeight"/>
-  <v:f eqn="sum @10 21600 0"/>
- </v:formulas>
- <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
- <o:lock v:ext="edit" aspectratio="t"/>
-</v:shapetype><v:shape id="Picture_x0020_1" o:spid="_x0000_i1026" type="#_x0000_t75"
- style='width:280pt;height:410pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="Assignment1.fld/image001.png" o:title=""/>
-</v:shape><![endif]--><![if !vml]><img border=0 width=280 height=410
-src="Assignment1.fld/image001.png" v:shapes="Picture_x0020_1"><![endif]></span><span
-style='mso-ansi-language:EN-AU'><o:p></o:p></span></p>
+<p>This job entails thorough knowledge of the financial products, the competitions, the related rules and regulations. As the director of sales, the person will also need to have the skill set to conduct extensive research, analyse data and come up with tailored sales pitch to potential clients. For analyse, often IT comes in to play and technicality terms can often be confusing and causing setbacks to the progress.</p>
 
-<p><span style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
-
-<p><span style='mso-ansi-language:EN-AU'>I find this job to be
-very challenging as it requires the director to stay on top of current world
-affairs, market movements and governmental regulations. I admire those who can
-stay on top of the news and analyse underlying meanings of each news and
-movements at any given time. The reason why I am drawn to this job is precise
-because of love challenge and to be in an environment where you can explore
-more of the world you are not familiar with. <o:p></o:p></span></p>
-
-<p><span style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
-
-<p><span style='mso-ansi-language:EN-AU'>This job entails
-thorough knowledge of the financial products, the competitions, the related
-rules and regulations. As the director of sales, the person will also need to
-have the skill set to conduct extensive research, analyse data and come up with
-tailored sales pitch to potential clients. For analyse, often IT comes in to
-play and technicality terms can often be confusing and causing setbacks to the
-progress. <o:p></o:p></span></p>
-
-<p><span style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
-
-<p><span style='mso-ansi-language:EN-AU'>With my limited
-experience in finance, there is a long way ahead of me to be considered for
-this position. However, I can see that being able to work with a diverse team
-of people and an excellent sales skill are highly desirable, which I have some
-exposure during my job experience at the university recruiting offshore
-students. While I am not an expert on world affairs, I am always curious to
-learn about what is happening at the very moment and I have a habit of reading
-through the news on politics and international relations daily. Since I am now
-studying the basic of IT, I hope I will be able to understand some fundamental
-terminologies and to work along with IT counterparts to contribute my ideas
-fluently with them when analysing data and creating a compelling argument to my
-clients. <o:p></o:p></span></p>
-
-<p><span style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
+<p>With my limited experience in finance, there is a long way ahead of me to be considered for this position. However, I can see that being able to work with a diverse team of people and an excellent sales skill are highly desirable, which I have some exposure during my job experience at the university recruiting offshore students. While I am not an expert on world affairs, I am always curious to learn about what is happening at the very moment and I have a habit of reading through the news on politics and international relations daily. Since I am now studying the basic of IT, I hope I will be able to understand some fundamental terminologies and to work along with IT counterparts to contribute my ideas fluently with them when analysing data and creating a compelling argument to my clients.</p>
 
 <p><span style='mso-ansi-language:EN-AU'>I believe once I have
 been working in the financial industry, gain a decent knowledge of the certain
@@ -144,27 +75,10 @@ happen through connection and small talks instead of flashy presentations. I
 look forward to expanding my network while working in the industry and to build
 a trusting relationship with my colleagues. <o:p></o:p></span></p>
 
-<p><span style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
+<h1>Personal Profile:</h1>
 
-<p><span style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
-
-<p><b style='mso-bidi-font-weight:normal'><span
-style='font-size:14.0pt;mso-bidi-font-size:12.0pt;background:yellow;mso-highlight:
-yellow;mso-ansi-language:EN-AU'>Personal Profile:</span></b><b
-style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;mso-bidi-font-size:
-12.0pt;mso-ansi-language:EN-AU'> <o:p></o:p></span></b></p>
-
-<p><span style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
-
-<p><span style='mso-ansi-language:EN-AU'>My 16 Personalities
-test with Myers-Briggs Type Indicator (MBTI) test shows that I am a protagonist
-person with the results showing as <u>ENFJ-T</u>. A protagonist person is full
-of passion and charisma and can often be seen in politicians, coaches and
-teachers. This type of person is genuine, and unafraid to speak up when
-something needs to be said<sup>1</sup>. (Introduction to ENFJ-T personality, 16
-Personalities)<o:p></o:p></span></p>
-
-<p><span style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
+<p>My 16 Personalities test with Myers-Briggs Type Indicator (MBTI) test shows that I am a protagonist person with the results showing as <u>ENFJ-T</u>. A protagonist person is full of passion and charisma and can often be seen in politicians, coaches and teachers. This type of person is genuine, and unafraid to speak up when something needs to be said<sup>1</sup>. (Introduction to ENFJ-T personality, 16
+Personalities)</p>
 
 <p><span style='mso-ansi-language:EN-AU'>I think this test
 accurately reflect my personality and team playing skills. While I am a listener
@@ -212,18 +126,9 @@ towards. <o:p></o:p></span></p>
 
 <p><span style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
 
-<p><b style='mso-bidi-font-weight:normal'><span
-style='font-size:14.0pt;mso-bidi-font-size:12.0pt;background:yellow;mso-highlight:
-yellow;mso-ansi-language:EN-AU'>Project Idea:</span></b><b style='mso-bidi-font-weight:
-normal'><span style='font-size:14.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:
-EN-AU'><o:p></o:p></span></b></p>
+<h1>Project Idea:</h1>
 
-<p><span style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
-
-<p><u><span style='mso-ansi-language:EN-AU'>Overview of the
-project <o:p></o:p></span></u></p>
-
-<p><span style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
+<h2>Overview of the project </h2>
 
 <p><span style='mso-ansi-language:EN-AU'>The project will look
 into how to enhance airline boarding efficiency and to avoid late passengers
@@ -237,12 +142,7 @@ flow will make the embarkment process faster. </span><span style='font-family:
 "Times New Roman",serif;mso-fareast-font-family:"Times New Roman";mso-ansi-language:
 EN-AU'><o:p></o:p></span></p>
 
-<p><span style='mso-ansi-language:EN-AU'><br style='mso-special-character:
-line-break'>
-<![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
-<![endif]><o:p></o:p></span></p>
-
-<p><u><span style='mso-ansi-language:EN-AU'>Motivation<o:p></o:p></span></u></p>
+<h2>Motivation</h2>
 
 <p><span style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
 
@@ -256,25 +156,15 @@ delay.<o:p></o:p></span></p>
 
 <p><span style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
 
-<p><span style='mso-ansi-language:EN-AU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="Picture_x0020_2" o:spid="_x0000_i1025" type="#_x0000_t75" style='width:298pt;
- height:193pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="Assignment1.fld/image002.png" o:title=""/>
-</v:shape><![endif]--><![if !vml]><img border=0 width=298 height=193
-src="Assignment1.fld/image002.png" v:shapes="Picture_x0020_2"><![endif]></span><span
-style='mso-ansi-language:EN-AU'><o:p></o:p></span></p>
+<p><img border=0 width=298 height=193 src="Assignment1.fld/image002.png" v:shapes="Picture_x0020_2"></p>
 
-<p><span style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
-
-<p><span style='mso-ansi-language:EN-AU'>A delay of 15 – 30
+<p>A delay of 15 – 30
 minutes may seem minor to the operation. However, according to Captain Martin
 Gardiner from Qantas, the airline will be fined 20,000 pounds for each
 non-compliance of time-slot at LHR (London Heathrow Airport)<sup>6</sup>. (O’Sullivan,
-2015)<o:p></o:p></span></p>
+2015)</p>
 
-<p><span style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
-
-<p><u><span style='mso-ansi-language:EN-AU'>Description<o:p></o:p></span></u></p>
+<h2>Description</h2>
 
 <p><span style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
 
@@ -344,8 +234,7 @@ minimize a flight to be delayed. <o:p></o:p></span></p>
 
 <p><span style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
 
-<p><u><span style='mso-ansi-language:EN-AU'>Tools &amp;
-Technologies<o:p></o:p></span></u></p>
+<h2>Tools &amp; Technologies</h2>
 
 <p><span style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
 
@@ -362,11 +251,7 @@ lounge hosts’ part, it will require a system to pull out targeted passengers�
 location and offer different colour code or dot to identify passengers and
 sending out alert to those passengers in risk to miss the flight. <o:p></o:p></span></p>
 
-<p><span style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
-
-<p><u><span style='mso-ansi-language:EN-AU'>Skills required <o:p></o:p></span></u></p>
-
-<p><span style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
+<h2>Skills required</h2>
 
 <p><span style='mso-ansi-language:EN-AU'>In order to
 successfully carry out this project, program engineers will need to add
@@ -391,7 +276,7 @@ concern of been tracked by the airline for the in-terminal movement.<o:p></o:p><
 
 <p><span style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
 
-<p><u><span style='mso-ansi-language:EN-AU'>Outcome <o:p></o:p></span></u></p>
+<h2>Outcome</h2>
 
 <p><span style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
 
@@ -406,7 +291,7 @@ retain customer loyalty as it will be deemed as a reliable airline to fly with.
 
 <p><span style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
 
-<p><u><span style='mso-ansi-language:EN-AU'>Reference<o:p></o:p></span></u></p>
+<h2>References</h2>
 
 <p><span style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
 
