@@ -10,34 +10,15 @@ Email address: <a href="mailto:christopherhjlai@gmail.com">christopherhjlai@gmai
 
 <h2>Basic background:</h2>
 
-<body>Chris, originally from Taiwan and Portland, has been exposed to a multicultural environment and considers himself a global citizen. He is a trilingual speaker, fluent in Hokkien, Mandarin and English.
+<body><p>Chris, originally from Taiwan and Portland, has been exposed to a multicultural environment and considers himself a global citizen. He is a trilingual speaker, fluent in Hokkien, Mandarin and English.</p>
 
-As a teenager, Chris devoted himself to the world of international relations and led his peers to engage in Model United Nations. He was involved in many causes and managed several conferences for more students to be part of this journey.
+<p>As a teenager, Chris devoted himself to the world of international relations and led his peers to engage in Model United Nations. He was involved in many causes and managed several conferences for more students to be part of this journey.</p>
 
-Having graduated from The University of Melbourne in Finance and Economics, Chris wishes to learn the basics of Information Technology as he understands that IT is part of our day-to-day living and that Financial sector is ever more intertwined with IT and the more
-knowledge you have, the better.</body>
+<p>Having graduated from The University of Melbourne in Finance and Economics, Chris wishes to learn the basics of Information Technology as he understands that IT is part of our day-to-day living and that Financial sector is ever more intertwined with IT and the more knowledge you have, the better.</p></body>
 
-<p class=MsoNormal><span style='font-size:10.5pt;font-family:"Helvetica Neue";
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
-background:white;mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
+<h1>Interest in IT:</h1>
 
-<p class=MsoNormal><span style='font-size:10.5pt;font-family:"Helvetica Neue";
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
-background:white;mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
-style='font-size:14.0pt;mso-bidi-font-size:12.0pt;background:yellow;mso-highlight:
-yellow;mso-ansi-language:EN-AU'>Interest in IT:</span></b><b style='mso-bidi-font-weight:
-normal'><span style='font-size:14.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:
-EN-AU'><o:p></o:p></span></b></p>
-
-<p class=MsoNormal><span style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='mso-ansi-language:EN-AU'>I have quite a few IT
-friends working in various sectors, I am surprised to see how flexible this
-profession can be and how rewarding it is to be able to solve many kinds of
-business operational issues in this profession. While I did not study IT nor
-have any experience in it, I always find it fascinating. <o:p></o:p></span></p>
+<body><p>I have quite a few IT friends working in various sectors, I am surprised to see how flexible this profession can be and how rewarding it is to be able to solve many kinds of business operational issues in this profession. While I did not study IT nor have any experience in it, I always find it fascinating.</p></body>
 
 <p class=MsoNormal><span style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
 
