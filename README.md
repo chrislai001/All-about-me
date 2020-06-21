@@ -2,44 +2,20 @@
 
 <h1>Personal Information:</h1>
 
-<h2>Student name: Chris Lai</h2>
+<body>Student name: Chris Lai
 
-<h2>Student number:3866221</h2>
+Student number:3866221
 
-<p class=MsoNormal><span style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
+Email address: <a href="mailto:christopherhjlai@gmail.com">christopherhjlai@gmail.com</a></body>
 
-<p class=MsoNormal><span style='mso-ansi-language:EN-AU'>Email address: <span
-class=MsoHyperlink><a href="mailto:christopherhjlai@gmail.com">christopherhjlai@gmail.com</a></span><o:p></o:p></span></p>
+<h2>Basic background:</h2>
 
-<p class=MsoNormal><span style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
+<body>Chris, originally from Taiwan and Portland, has been exposed to a multicultural environment and considers himself a global citizen. He is a trilingual speaker, fluent in Hokkien, Mandarin and English.
 
-<p class=MsoNormal><span style='mso-ansi-language:EN-AU'>Basic background: <o:p></o:p></span></p>
+As a teenager, Chris devoted himself to the world of international relations and led his peers to engage in Model United Nations. He was involved in many causes and managed several conferences for more students to be part of this journey.
 
-<p class=MsoNormal><span style='font-size:10.5pt;font-family:"Helvetica Neue";
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
-background:white;mso-ansi-language:EN-AU'>Chris, originally from Taiwan and
-Portland, has been exposed to a multicultural environment and considers himself
-a global citizen. He is a trilingual speaker, fluent in <span class=SpellE>Hokkien</span>,
-Mandarin and English. </span><span style='font-size:10.5pt;font-family:"Helvetica Neue";
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
-mso-ansi-language:EN-AU'><br>
-<br>
-<span style='background:white'>As a teenager, Chris devoted himself to the
-world of international relations and led his peers to engage in Model United
-Nations. He was involved in many <span class=GramE>humanitarian</span> causes
-and managed several conferences for more students to be part of this journey.<o:p></o:p></span></span></p>
-
-<p class=MsoNormal><span style='font-size:10.5pt;font-family:"Helvetica Neue";
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
-background:white;mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:10.5pt;font-family:"Helvetica Neue";
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
-background:white;mso-ansi-language:EN-AU'>Having graduated from The University
-of Melbourne in Finance and Economics, Chris wishes to learn the basics of
-Information Technology as he understands that IT is part of our day-to-day
-living and that Financial sector is ever more intertwined with IT and the more
-knowledge you have, the better. <o:p></o:p></span></p>
+Having graduated from The University of Melbourne in Finance and Economics, Chris wishes to learn the basics of Information Technology as he understands that IT is part of our day-to-day living and that Financial sector is ever more intertwined with IT and the more
+knowledge you have, the better.</body>
 
 <p class=MsoNormal><span style='font-size:10.5pt;font-family:"Helvetica Neue";
 mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
