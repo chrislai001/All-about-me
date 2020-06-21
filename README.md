@@ -235,21 +235,21 @@ retain customer loyalty as it will be deemed as a reliable airline to fly with.
 <h1>References</h1>
 <br>
 <p>1. Introduction to ENFJ-T personality, 16 Personalities Test. Available at <a href="https://www.16personalities.com/enfj-personality">https://www.16personalities.com/enfj-personality</a>. Retrieved on the 16<sup>th</sup> of June, 2020. </p>
-<br>
+
 <p>2. ENFJ-T Strength and Weakness, 16 Personalities Test. Available at <a href="https://www.16personalities.com/enfj-strengths-and-weaknesses">https://www.16personalities.com/enfj-strengths-and-weaknesses</a>. Retrieved on the 16<sup>th</sup> of June, 2020. </p>
-<br>
+
 <p>3. Introduction to Visual Learner, How-to-study.com. Available at <a href="https://www.how-to-study.com/study-skills-articles/visual-learner.asp">https://www.how-to-study.com/study-skills-articles/visual-learner.asp</a>. Retrieved on the 18<sup>th</sup> of June, 2020. </p>
-<br>
+
 <p>4. Job Outlook, Australian Government. Available at <a href="https://joboutlook.gov.au/CareerQuizResult?search=quiz&amp;1=0&amp;2=1&amp;3=1&amp;4=5&amp;5=8&amp;6=0">https://joboutlook.gov.au/CareerQuizResult?search=quiz&amp;1=0&amp;2=1&amp;3=1&amp;4=5&amp;5=8&amp;6=0</a>.
 Retrieved on the 18<sup>th</sup> of June, 2020. </p>
-<br>
+
 <p>5. On-Time Arrival Performance National (January, 2017 – December, 2019). Available at <a href="https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp?pn=1">https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp?pn=1</a>. Retrieved on the 19<sup>th</sup> of June, 2020. </p>
-<br>
+
 <p>6. Qantas risks large fines, losing slots at Heathrow for late A380s (M. O’Sullivan, 2015). Available at <a
 href="https://www.smh.com.au/business/companies/qantas-risks-large-fines-losing-slots-at-heathrow-for-late-a380s-internal-memo-20150416-1mmciq.html">https://www.smh.com.au/business/companies/qantas-risks-large-fines-losing-slots-at-heathrow-for-late-a380s-internal-memo-20150416-1mmciq.html</a>. Retrieved on the 20<sup>th</sup> of June, 2020. </p>
-<br>
+
 <p>7. Should airlines fine passengers who can’t get to the gate on time? (N. Paris, 2017). Available at <a
 href="https://www.telegraph.co.uk/travel/news/passengers-late-boarding-gate-fined-airline-airport/">https://www.telegraph.co.uk/travel/news/passengers-late-boarding-gate-fined-airline-airport/</a>. Retrieved on the 20<sup>th</sup> of June, 2020. </p>
-<br>
+
 <p>8. These are the worst flights in Australia for delays and cancellations. (P. Hatch, 2018). Available at <a
 href="https://www.smh.com.au/business/companies/these-are-the-worst-flights-in-australia-for-delays-and-cancellations-20180427-p4zc3d.html">https://www.smh.com.au/business/companies/these-are-the-worst-flights-in-australia-for-delays-and-cancellations-20180427-p4zc3d.html</a>. Retrieved on the 21<sup>st</sup> of June, 2020. </p>
