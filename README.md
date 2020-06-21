@@ -40,7 +40,7 @@ in this field will most certainly grow on me and benefits my career progress. </
 
 <p>The ideal job I think will suit me most is in sales. For example, the listing of Director of Sales for Robert Walters Australia. The link to this listing is <a href="https://www.seek.com.au/job/50098605?type=standard#searchRequestToken=d934f81a-f0f4-4585-b664-1c8a5d1424df">https://www.seek.com.au/job/50098605?type=standard#searchRequestToken=d934f81a-f0f4-4585-b664-1c8a5d1424df</a>.</p>
 
-<p><img border=0 width=280 height=410 src="Image1.png"></p>
+<p><img border=0 width=280 height=410 src="Image1.png" alt="Director - Sales"></p>
 
 <p>I find this job to be very challenging as it requires the director to stay on top of current world affairs, market movements and governmental regulations. I admire those who can stay on top of the news and analyse underlying meanings of each news and movements at any given time. The reason why I am drawn to this job is precise because of love challenge and to be in an environment where you can explore more of the world you are not familiar with.</p>
 
@@ -127,7 +127,7 @@ statistics<sup>5</sup>, most common factor is aircraft arriving late from
 previous service(s), followed by air carrier delay and national aviation system
 delay.</p>
 
-<p><img border=0 width=298 height=193 src="Image2.png"></p>
+<p><img border=0 width=298 height=193 src="Image2.png" alt="On-time Arrival Performance"></p>
 
 <p>A delay of 15 – 30
 minutes may seem minor to the operation. However, according to Captain Martin
