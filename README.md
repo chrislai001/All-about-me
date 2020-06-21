@@ -1,30 +1,10 @@
-# All-about-me
+# RMIT Introduction to IT – Assignment 1
 
-Hello visitors, welcome to the page "all about me". 
-Here, I will be showcasing my personality tests and to dig into some aspects of me. 
+<h1>Personal Information:</h1>
 
-<div class=WordSection1>
+<h2>Student name: Chris Lai</h2>
 
-<p class=MsoNormal><span style='mso-ansi-language:EN-AU'>RMIT Introduction to
-IT – Assignment 1 <o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
-style='font-size:14.0pt;mso-bidi-font-size:12.0pt;background:yellow;mso-highlight:
-yellow;mso-ansi-language:EN-AU'>Personal Information:</span></b><b
-style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;mso-bidi-font-size:
-12.0pt;mso-ansi-language:EN-AU'> <o:p></o:p></span></b></p>
-
-<p class=MsoNormal><span style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='mso-ansi-language:EN-AU'>Student name: Chris
-Lai<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='mso-ansi-language:EN-AU'>Student number:
-3866221<o:p></o:p></span></p>
+<h2>Student number:3866221</h2>
 
 <p class=MsoNormal><span style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
 
