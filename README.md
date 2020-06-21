@@ -83,18 +83,12 @@ work environment, I will need to draw down a timeline and take notes of team
 meeting minutes to memorize the discussion and decision made in the back of my
 head. </p>
 
-<p>To better understand
-what <span class=GramE>jobs</span> I will be enjoying doing, I did an online
-survey at <span class=SpellE>JobOutlook</span> by the Australian Government.
-The result shows that I will be suitable for positions that require to
-communicate with others and to work as a team. The recommended job such as
-financial dealers, advertising and marketing professionals, ICT project
-managers and sales and marketing managers<sup>4</sup>. (Job Outlook, Australian
-Government)</p>
+<p>To better understand what jobs I will be enjoying doing, I did an online survey at JobOutlook by the Australian Government.
+The result shows that I will be suitable for positions that require to communicate with others and to work as a team. The recommended job such as financial dealers, advertising and marketing professionals, ICT project managers and sales and marketing managers<sup>4</sup>. (Job Outlook, Australian Government)</p>
 
 <p>This also echoes my
 personality test that I am good with managing relationships and pitching ideas
-to others.<span style='mso-spacerun:yes'>  </span>I am an outgoing person who
+to others. I am an outgoing person who
 enjoys constant communication with the public and I am sure those recommended
 jobs will be suitable for my long-term career path. In relations to my ideal
 job, the criteria’s matches perfectly, and I am more certain now after the
