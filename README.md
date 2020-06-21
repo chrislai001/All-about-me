@@ -2,11 +2,11 @@
 
 <h1>Personal Information:</h1>
 
-<body>Student name: Chris Lai
+<body><p>Student name: Chris Lai</p>
 
-Student number:3866221
+<p>Student number:3866221</p>
 
-Email address: <a href="mailto:christopherhjlai@gmail.com">christopherhjlai@gmail.com</a></body>
+<p>Email address: <a href="mailto:christopherhjlai@gmail.com">christopherhjlai@gmail.com</a></p></body>
 
 <h2>Basic background:</h2>
 
